@@ -1,16 +1,25 @@
-## Hi there 👋
+## Greetings user! 👋
 
-<!--
-**BinaryFallow/BinaryFallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p id="first">Welcome to my read me page!</p>
 
-Here are some ideas to get you started:
+<p>My name is <em>Devin K. Yuan</em> or through Github, <em>BinaryFallow/BinaryFallow</em>! I'm a sophomore of <i>San Francisco State University</i> and is learning how to code so that I can make these skills benefit into video game development and design I'm hoping that as I progress through the course I can learn a lot more and make my own video game or even create custom websites for ARGs (<em>Augmented Reality Games</em>) to connect to those said games.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm really looking forward to what I can create!
+
+<p id =""second> More about me:</p>
+<ul>
+  <li> I'm currently 23 year old.</li>
+  <li> I live in San Francisco</li>
+  <li> My favorite animal is a deer (plus cats)</li>
+  <li> I'm currently a computer sciecne major in San Francisco State University.</li>
+  <li> Fun fact! Did you know my name, Devin means poet, divine or young deer in irish?</li>
+</ul>
+
+<p id ="second">As of what goals I currently have in mind...</p>
+Here are some goals that I made since I signed up to github:
+
+<ul>
+  <li> I'm learning how to code Javascript and HTML5 so that I can make some pretty interesting websites.</li>
+  <li> When I graduate, I'm planning to make my own game and show to the world.</li>
+  <li> I'm looking for help through <a href= "https://developer.mozilla.org/en-US/"><em>Mdn</em></a>.</li>
+</ul>
